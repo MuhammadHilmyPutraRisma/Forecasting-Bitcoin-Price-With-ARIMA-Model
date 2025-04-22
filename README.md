@@ -7,6 +7,7 @@ Python code for forecasting Bitcoin prices using the ARIMA model. The forecastin
 - Data differencing
 - Data transformation
 - Plotting of ACF and PACF
+- Determining optimal ARIMA model parameters
 - Diagnostic checking of the model
 - Forecasting Bitcoin prices for the next 7 days
 - Visualization of actual vs forecasted Bitcoin prices
