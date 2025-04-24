@@ -1,4 +1,4 @@
-# Forecasting-Bitcoin-Price-With-ARIMA-Model
+# Bitcoin-Price-Forecast-With-ARIMA-Model
 Python code for forecasting Bitcoin prices using the ARIMA model. The forecasting is performed to predict Bitcoin prices for the next 7 days based on historical trends.
 
 ## Features
